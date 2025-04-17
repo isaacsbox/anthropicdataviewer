@@ -1,0 +1,6 @@
+streamlit
+datasets
+matplotlib
+plotly
+pymongo
+pandas
