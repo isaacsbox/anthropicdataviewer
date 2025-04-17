@@ -40,9 +40,3 @@ We might be able to create aggregate scores to represent unusual data points - e
 
 Tasks high in being 'directive' are usually where the user has certainty or high knowledge of the task, whereas tasks high in 'learning' suggests users have significant uncertainty or low knowledge in that task (note that some task categories are more about learning and others more about checking, so this follows the change in interaction type)
 
-### Potential Questions (for new data analysis)
-- [x] what about a view of all tasks with very high filter rate (from most popular to a cut off point)?
-- [ ] What if we curated a group of tasks that relate to Cora-specific functions and viewed these together?
-
-## TO-DO:
-- [ ] Lot's of other analysis angles to explore - such as grouping by topic/semantics. Alternatively using a semantic search.
